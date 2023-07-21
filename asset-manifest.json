@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anton-novikov997/hwhwhhw.git/static/css/main.8166bd0a.css",
+    "main.js": "/anton-novikov997/hwhwhhw.git/static/js/main.ae950349.js",
+    "static/js/787.66cb4309.chunk.js": "/anton-novikov997/hwhwhhw.git/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/anton-novikov997/hwhwhhw.git/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/anton-novikov997/hwhwhhw.git/index.html",
+    "main.8166bd0a.css.map": "/anton-novikov997/hwhwhhw.git/static/css/main.8166bd0a.css.map",
+    "main.ae950349.js.map": "/anton-novikov997/hwhwhhw.git/static/js/main.ae950349.js.map",
+    "787.66cb4309.chunk.js.map": "/anton-novikov997/hwhwhhw.git/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8166bd0a.css",
+    "static/js/main.ae950349.js"
+  ]
+}
